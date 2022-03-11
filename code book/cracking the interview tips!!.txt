@@ -1,0 +1,19 @@
+A lot of students want to get started with CP (competitive programming) so, thought of collecting and sharing all the resources I am aware of that’s gonna be really helpful for this journey. 🌻
+
+⏩ Getting the basics strong: For the basics, I would recommend the Competitive Programmer’s handbook by Antti Laaksonen. I’ve personally used the book and it really helped me to clear my basics. 💃
+
+Once you clear your basics around various concepts, it’s time to practice. So, for practice, I would suggest the following resources:
+
+📍Junior Traning Sheet: It’s a wonderful set of questions for you to get started. It starts from an easy set and gradually the difficulty level increases. This sheet is mainly based on Codeforces and SPOJ.
+
+📍CSES problem set: This problem set is one of the most recommended for CP. For different topics, a certain set of questions are there and it’s fun solving them.
+
+📍Strivers’ CP sheet: We all know Striver for his amazing SDE sheet that helped many of us crack interviews. So, here comes another amazing sheet for CP where you’ll find questions from Codeforces, SPOJ, Hackerearth, etc, which again is a good place to start from!
+
+PS: I have shared the link to everything below. Check out! 😁
+
+Happy Learning! 🌷
+
+-------------------------------------------------------------------
+
+Git hub link: https://github.com/hrit-ikkumar/hritikkumar-cp
